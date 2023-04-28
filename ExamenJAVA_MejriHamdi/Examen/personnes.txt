@@ -1,0 +1,20 @@
+Personne [nom=Durand, prenom=Jean, adresse=10 rue du Paradis, telephone=0102030405, age=30]
+
+Personne [nom=Dupont, prenom=Marie, adresse=5 rue des Lilas, telephone=0607080910, age=25]
+
+Personne [nom=Martin, prenom=Pierre, adresse=18 avenue des Champs-Elysées, telephone=0203040506, age=40]
+
+Personne [nom=Leclerc, prenom=Sophie, adresse=12 rue de la Paix, telephone=0708091011, age=22]
+
+Personne [nom=Dubois, prenom=Luc, adresse=7 rue de la Liberté, telephone=0506070809, age=5]
+
+Personne [nom=Dupont, prenom=Marie, adresse=5 rue des Lilas, telephone=0607080910, age=25]
+
+Personne [nom=Martin, prenom=Pierre, adresse=18 avenue des Champs-Elysées, telephone=0203040506, age=40]
+
+Personne [nom=Leclerc, prenom=Sophie, adresse=12 rue de la Paix, telephone=0708091011, age=22]
+
+Personne [nom=Dubois, prenom=Luc, adresse=7 rue de la Liberté, telephone=0506070809, age=50]
+
+Personne [nom=Durand, prenom=Jean, adresse=10 rue du Paradis, telephone=0102030405, age=30]
+
